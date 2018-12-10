@@ -1,4 +1,4 @@
-# safe_teleop
+# Safe_teleop
 
 Fall CMPT 742 (Visual Computing) Assignment
 
